@@ -1,0 +1,21 @@
+
+7
+java:S1643I"Use a StringBuilder instead.(ùî±Ãúÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+~
+java:S4165-"hRemove this useless assignment; "clientList" already holds the assigned value along all execution paths.(¼ì‘×
+€
+java:S41655"jRemove this useless assignment; "serverSocket" already holds the assigned value along all execution paths.(–”‡
+T
+java:S1854-">Remove this useless assignment to local variable "clientList".(¼ì‘×
+E
+java:S1656-"/Remove or correct this useless self-assignment.(¼ì‘×
+V
+java:S18545"@Remove this useless assignment to local variable "serverSocket".(–”‡
+E
+java:S16565"/Remove or correct this useless self-assignment.(–”‡
+Z
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8ğş¨Ë0
+W
+java:S1128"5Remove this unused import 'java.io.DataOutputStream'.(¸Îáíıÿÿÿÿ8ğş¨Ë0
